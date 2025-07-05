@@ -36,12 +36,8 @@ This project aims to explore:
 
 - `pandas` – for data manipulation and preprocessing  
 - `matplotlib` / `seaborn` – for statistical and comparative visualizations  
-- `plotly.express` – for interactive graphs and dashboards  
 - `numpy` – for calculations and transformations  
-- *(Optional: `scikit-learn` or `statsmodels` for advanced modeling)*
-
 ---
-
 
 ## 📊 Sample Insights
 
